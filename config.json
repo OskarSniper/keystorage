@@ -1,0 +1,7 @@
+{
+   "project":"gtav/gtatest.key",
+   "ip":"127.0.0.1",
+   "domain":"localhost",
+   "cert":"cert.key",
+   "publicKey":"publicKey.key"
+}
